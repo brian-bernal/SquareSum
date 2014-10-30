@@ -1,5 +1,5 @@
 package com.company;
-
+//I suppose it would have been better to start from 1 and get 101 50 times.
 public class Main {
     final static int max = 100;  //The number we wish to go up to. Only even numbers. But would be easy to do odd as well.
 
